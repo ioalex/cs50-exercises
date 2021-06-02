@@ -11,5 +11,5 @@
   "MD013": false,
 
   // Disable MD033/no-inline-html rule
-  "MD033": false
+  "html": false
 }
