@@ -8,7 +8,7 @@
 
 - [Contents 📑](#contents-)
 - [Thoughts 💭](#thoughts-)
-<!-- - [Notes 📝](#notes-) -->
+- [Notes 📝](#notes-)
 - [Problem Sets 🧩](#problem-sets-)
   - [Week 0](#week-0)
 
@@ -16,11 +16,11 @@
 
 I enrolled in this course so that I could gain a deeper understanding of the computer science world and of programming itself. So far, I am really enjoying it. David Malan is a superb lecturer.
 
-<!-- ## Notes 📝
+## Notes 📝
 
-I have also included my personal notes for each week's lecture.
+You can find my notes to this course here:
 
-See [NOTES](NOTES.md). -->
+See [NOTES](https://github.com/ioalex/notes/blob/main/courses/cs50-introduction-to-computer-science/index.md)
 
 ## Problem Sets 🧩
 
